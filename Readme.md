@@ -2,7 +2,7 @@
 
 # Project #2: Full Stack Online Chat Application
 
-
+### [Live Site](https://online-chat-app-ga.herokuapp.com/)
 
 # Chat-app
 Simple chat application that supports users and rooms. 
